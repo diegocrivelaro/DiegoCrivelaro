@@ -11,3 +11,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=diegocrivelaro&count_private=true&show_icons=true&theme=radical" width="350px"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocrivelaro&layout=compact&theme=radical" width="350px">
 </p>
+
+<h3>Linguagens</h3>
+<p>Em construção 🚧</p>
+
+<h3>Frameworks</h3>
+<p>Em construção 🚧</p>
+
+<h3>Estatísticas do GitHub</h3>
+<p>Em construção 🚧</p>
+
+<h3>Ferramentas</h3>
+<p>Em construção 🚧</p>

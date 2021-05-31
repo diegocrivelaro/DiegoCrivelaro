@@ -1,7 +1,7 @@
 <h2 align="center">Bem-vindo(a), eu sou o Diego Crivelaro 👋🤓</h2>
 
 <p align="center">
-<a href="https:github.com/diegocrivelaro"> <img src="https://image.flaticon.com/icons/png/512/779/779088.png" width="35px" align="center"> </a>
+<a href="https://github.com/diegocrivelaro"> <img src="https://image.flaticon.com/icons/png/512/779/779088.png" width="35px" align="center"> </a>
 <a href="https://www.linkedin.com/in/diegocrivelaro/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="35px" align="center"> </a>
 <a href="https://www.instagram.com/diego_crivelaro/"> <img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="35px" align="center"> </a>
 </p>

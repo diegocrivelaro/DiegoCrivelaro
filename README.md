@@ -23,3 +23,5 @@
 
 <h3>Ferramentas</h3>
 <p>Em construção 🚧</p>
+
+![Snake animation](https://github.com/diegocrivelaro/diegocrivelaro/blob/output/github-contribution-grid-snake.svg)

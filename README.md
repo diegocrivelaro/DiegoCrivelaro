@@ -8,19 +8,20 @@
 <a href="https://www.instagram.com/diego_crivelaro/" target="blank"> <img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="35px" align="center"> </a>
 </p>
 
-
-<h2>Linguagens</h2>
-<p>
-    <code>
-        <a href="https://www.w3schools.com/html/" target="blank"> <img alt="HTML5" src="imagens/html.png" height="40"> </a> 
-    </code>
-    <code>
-        <a href="https://www.w3schools.com/css/" target="blank"> <img alt="CSS3" src="https://image.flaticon.com/icons/png/512/732/732190.png" height="40"> </a> 
-    </code>
-    <code>
-        <a href="https://www.python.org" target="blank"> <img alt="Python" src="imagens/python.png" height="48"> </a> 
-    </code>
-</p>
+<div>
+    <h2>Linguagens</h2>
+        <p>
+            <code>
+                <a href="https://www.w3schools.com/html/" target="blank"> <img alt="HTML5" src="imagens/html.png" height="40"> </a> 
+            </code>
+            <code>
+                <a href="https://www.w3schools.com/css/" target="blank"> <img alt="CSS3" src="https://image.flaticon.com/icons/png/512/732/732190.png" height="40"> </a> 
+            </code>
+            <code>
+                <a href="https://www.python.org" target="blank"> <img alt="Python" src="imagens/python.png" height="48"> </a> 
+            </code>
+        </p>
+</div>
 
 <h2>Frameworks</h2>
 <p>Em construção 🚧</p>

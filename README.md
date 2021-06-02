@@ -14,7 +14,7 @@
 </div>
 
 <div align="left">
-    <h3>Linguagens</h3>
+    <h2>Linguagens</h2>
         <p>
             <code>
                 <a href="https://www.python.org" target="blank"> <img alt="Python" src="imagens/python.png" height="40"> </a> 
@@ -29,12 +29,12 @@
 </div>
 
 <div>
-    <h3>Frameworks</h3>
+    <h2>Frameworks</h2>
     <p>Estudando 📘</p>
 </div>
 
 <div>
-    <h3>🛠 Ferramentas</h3>
+    <h2>🛠 Ferramentas</h2>
         <p>
             <code>
                 <a href="https://git-scm.com" target="blank"> <img alt="Git" src="imagens/git.png" height="40"> </a> 
@@ -63,7 +63,7 @@
         </p>
 </div>
 
-<h3>⚙ Estatísticas do GitHub</h3>
+<h2>⚙ Estatísticas do GitHub</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=diegocrivelaro&count_private=true&show_icons=true&theme=radical" width="370px"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocrivelaro&layout=compact&theme=radical" width="370px">

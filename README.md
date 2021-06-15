@@ -34,7 +34,7 @@
 </div>
 
 <div>
-    <h2>🛠 Ferramentas</h2>
+    <h2>Ferramentas</h2>
         <p>
             <code>
                 <a href="https://git-scm.com" target="blank"> <img alt="Git" src="imagens/git.png" height="35"> </a> 
@@ -63,7 +63,7 @@
         </p>
 </div>
 
-<h2>⚙ Estatísticas do GitHub</h2>
+<h2>Estatísticas do GitHub</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=diegocrivelaro&count_private=true&show_icons=true&theme=radical" width="370px"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocrivelaro&layout=compact&theme=radical" width="370px">

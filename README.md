@@ -12,9 +12,34 @@
 </p>
 
 ### Languages
-<p align="center">
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/html5.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/css3.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/python.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python&nbsp;
+    </td>
+  </tr>
+</table>
 
 <h3>Social Networks</h3>
 <p align="left"><a href="https://github.com/diegocrivelaro"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight" alt="diegocrivelaro" /></a></p>

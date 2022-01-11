@@ -11,6 +11,11 @@
 --- 
 </p>
 
+### Languages
+<p align="center">
+</p>
+
+
 <h3>Social Networks</h3>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegocrivelaro" alt="diegocrivelaro" /></a> </p>
+<p align="left"><a href="https://github.com/diegocrivelaro"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight" alt="diegocrivelaro" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegocrivelaro&theme=dark" alt="diegocrivelaro" /></p>

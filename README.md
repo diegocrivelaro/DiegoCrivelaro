@@ -74,6 +74,12 @@
       </a>
       <br>VSCode&nbsp;
     </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="./img/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
+      </a>
+      <br>NPM&nbsp;
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/figma-original.svg" width="48" height="48" alt="Figma" />
@@ -85,6 +91,36 @@
         <img src="./img/canva-original.svg" width="48" height="48" alt="Canva" />
       </a>
       <br>Canva&nbsp;
+    </td>
+  </tr>
+</table>
+
+### Organization Application
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/notion.svg" width="48" height="48" alt="Notion" />
+      </a>
+      <br>Notion&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/ticktick.png" width="48" height="48" alt="TickTick" />
+      </a>
+      <br>TickTick&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/clickup.png" width="48" height="48" alt="ClickUp" />
+      </a>
+      <br>ClickUp&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/trello-plain.svg" width="48" height="48" alt="Trello" />
+      </a>
+      <br>Trello&nbsp;
     </td>
   </tr>
 </table>

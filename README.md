@@ -80,11 +80,17 @@
       </a>
       <br>VSCode&nbsp;
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
         <img src="./img/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
       </a>
       <br>NPM&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/yarn.png" width="48" height="48" alt="Yarn" />
+      </a>
+      <br>Yarn&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#">

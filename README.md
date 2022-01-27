@@ -46,15 +46,15 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/express.png" width="48" height="48" alt="Express" />
-      </a>
-      <br>ExpressJS&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="./img/python.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/express.png" width="48" height="48" alt="Express" />
+      </a>
+      <br>ExpressJS&nbsp;
     </td>
   </tr>
 </table>

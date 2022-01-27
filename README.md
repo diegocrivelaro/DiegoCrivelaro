@@ -52,9 +52,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/expressjs.svg" width="48" height="48" alt="NodeJS" />
+        <img src="./img/express.png width="48" height="48" alt="Express" />
       </a>
-      <br>NodeJS&nbsp;
+      <br>ExpressJS&nbsp;
     </td>
   </tr>
 </table>

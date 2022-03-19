@@ -2,7 +2,7 @@
 
 <p align="left">
     <h1>👋 Hello there! I'm Diego Crivelaro</h1>
-    <p align="left"><img src="https://komarev.com/ghpvc/?username=diegocrivelaro&label=Profile%20views&color=0e8ddd&style=flat" alt="diegocrivelaro" /></p>
+</p>
 
 ### About me
 * **Junior Web Developer** (Studying to be FullStack) 💻

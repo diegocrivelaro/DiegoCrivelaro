@@ -1,17 +1,22 @@
-<img src="./img/diego.png" align="right" max-width="300px" width="300px">
+<img src="./img/diego.png" alt="Imagem ilustrada de mim" align="right" max-width="300px" width="300px">
 
 <p align="left">
-    <h1>👋 Hello there! I'm Diego Crivelaro</h1>
+    <h1>Hello there! I'm Diego Crivelaro 👋 </h1>
 </p>
 
 ### About me
-* **Junior Web Developer** (Studying to be FullStack) 💻
-* Student in **Computer Science at UNIP** 🎓
-* **Orlândia-SP (Brazil)** 🌎
---- 
+
+- **Junior Web Developer** (Studying to be FullStack) 💻
+- Intern at **MySide** 🐺
+- Student in **Computer Science at UNIP** 🎓
+- **Orlândia-SP (Brazil)** 🌎
+
+---
+
 </p>
 
 ### FrontEnd
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -32,16 +37,37 @@
       </a>
       <br>JavaScript&nbsp;
     </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript&nbsp;
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/react.png" width="48" height="48" alt="React" />
       </a>
       <br>ReactJs&nbsp;
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/nextjs.png" width="48" height="48" alt="NextJs" />
+      </a>
+      <br>NextJs&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/jest.png" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest&nbsp;
+    </td>
   </tr>
 </table>
 
 ### BackEnd
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -50,22 +76,36 @@
       </a>
       <br>NodeJS&nbsp;
     </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="./img/express.png" width="48" height="48" alt="Express" />
+      </a>
+      <br>ExpressJS&nbsp;
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/python.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python&nbsp;
     </td>
+  </tr>
+</table>
+
+### DevOps
+
+<table>
+  <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/express.png" width="48" height="48" alt="Express" />
+        <img src="./img/docker.png" width="48" height="48" alt="Docker" />
       </a>
-      <br>ExpressJS&nbsp;
+      <br>Docker&nbsp;
     </td>
   </tr>
 </table>
 
 ### Code Versioning
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -78,6 +118,7 @@
 </table>
 
 ### Tools
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -103,42 +144,6 @@
         <img src="./img/figma-original.svg" width="48" height="48" alt="Figma" />
       </a>
       <br>Figma&nbsp;
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./img/canva-original.svg" width="48" height="48" alt="Canva" />
-      </a>
-      <br>Canva&nbsp;
-    </td>
-  </tr>
-</table>
-
-### Organization Application
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/notion.svg" width="48" height="48" alt="Notion" />
-      </a>
-      <br>Notion&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/ticktick.png" width="48" height="48" alt="TickTick" />
-      </a>
-      <br>TickTick&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/clickup.png" width="48" height="48" alt="ClickUp" />
-      </a>
-      <br>ClickUp&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/trello-plain.svg" width="48" height="48" alt="Trello" />
-      </a>
-      <br>Trello&nbsp;
     </td>
   </tr>
 </table>

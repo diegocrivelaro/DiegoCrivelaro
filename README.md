@@ -9,10 +9,9 @@
 - **Junior Web Developer** (Studying to be FullStack) 💻
 - Intern at **MySide** 🐺
 - Student in **Computer Science at UNIP** 🎓
-- **Orlândia-SP (Brazil)** 🌎
 
 ---
 
-<picture>
+<picture align="right">
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>

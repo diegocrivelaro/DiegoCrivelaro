@@ -19,10 +19,10 @@
 </p>
 
 <picture>
-    <img src="/general.svg" alt="Metrics General" align="left" width="350">
+    <img src="/general.svg" alt="Metrics General" align="left" width="390">
 </picture>
 
 <picture>
-    <img src="/achievements.svg" alt="Metrics Achievements" align="right" width="350">
+    <img src="/achievements.svg" alt="Metrics Achievements" align="right" width="390">
 </picture>
 

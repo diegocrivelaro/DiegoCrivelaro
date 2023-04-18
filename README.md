@@ -1,4 +1,4 @@
-<img src="./img/diego.png" alt="Imagem ilustrada de mim" align="right" max-width="300px" width="300px">
+
 
 <p align="left">
     <h1>Hello there! I'm Diego Crivelaro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
@@ -12,6 +12,17 @@
 
 ---
 
-<picture align="right">
-  <img src="/github-metrics.svg" alt="Metrics">
+<p align="center">
+    <picture>
+        <img src="/github-metrics.svg" alt="Github Metrics" />
+    </picture>
+</p>
+
+<picture>
+    <img src="/general.svg" alt="Metrics General" align="left">
 </picture>
+
+<picture>
+    <img src="/achievements.svg" alt="Metrics Achievements" align="right">
+</picture>
+

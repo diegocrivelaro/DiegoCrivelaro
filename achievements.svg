@@ -85,7 +85,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.60m out of 116m users</span>
+                                    <span class="gh">ranked 1.60m out of 117m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -141,7 +141,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.4243668720054705 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6365503080082058 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -293,7 +293,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 169k out of 116m users</span>
+                                    <span class="gh">ranked 169k out of 117m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">59</div>
                                     </div>
@@ -608,7 +608,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
@@ -811,7 +811,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cetorres/tn-cli</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TabNews (tabnews.com.br) CLI made with Go.</div>
@@ -864,7 +864,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RodrigoDornelles/3bc-lang</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Low-level language, tiny virtual machine, minimal runtime, intermediate representation, embeddable, easy for beginners. (Friendly Punched cards)</div>
@@ -917,7 +917,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rocketseat/eslint-config-rocketseat</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ESLint configuration used by Rocketseat</div>
@@ -964,7 +964,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rocketseat/rocketseat-vscode-reactjs-snippets</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rocketseat ReactJS snippets for Visual Studio Code Editor</div>

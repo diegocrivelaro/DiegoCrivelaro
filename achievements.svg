@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="729" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="727" class="">
     <defs>
         <style/>
     </defs>
@@ -34,7 +34,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
@@ -237,7 +237,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ryanoasis/nerd-fonts</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more</div>
@@ -290,7 +290,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcjohnson/neural-style</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Torch implementation of neural style algorithm</div>

@@ -34,7 +34,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
@@ -237,7 +237,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ryanoasis/nerd-fonts</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more</div>
@@ -290,7 +290,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcjohnson/neural-style</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Torch implementation of neural style algorithm</div>

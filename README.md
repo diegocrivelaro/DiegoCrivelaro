@@ -6,8 +6,7 @@
 
 ### About me
 
-- **Junior Web Developer** (Studying to be FullStack) 💻
-- Intern at **MySide** 🐺
+- **Analyst FullStack Junior** at OKN Group
 - Student in **Computer Science at UNIP** 🎓
 
 ---

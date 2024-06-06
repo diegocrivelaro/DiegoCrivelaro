@@ -6,7 +6,7 @@
 
 ### About me
 
-- **Analyst FullStack Junior** at OKN Group
+- **Analyst FullStack Junior** at Carefy
 - Student in **Computer Science at UNIP** 🎓
 
 ---

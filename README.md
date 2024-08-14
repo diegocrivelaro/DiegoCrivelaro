@@ -6,7 +6,7 @@
 
 ### About me
 
-- **Developer FullStack Junior** at Carefy
+- **Junior FullStack Developer** at Carefy
 - Student in **Computer Science at UNIP** 🎓
 
 ---

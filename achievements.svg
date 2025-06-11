@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="660" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="662" class="">
     <defs>
         <style/>
     </defs>
@@ -34,7 +34,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
                         </div>
                     </section>
                 </div>
@@ -237,7 +237,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sudheerj/javascript-interview-questions</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of 1000 JavaScript Interview Questions</div>
@@ -284,7 +284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheAlgorithms/JavaScript</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.</div>
@@ -337,7 +337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leonardomso/33-js-concepts</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📜 33 JavaScript concepts every developer should know.</div>

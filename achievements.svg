@@ -34,7 +34,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
@@ -237,7 +237,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sudheerj/javascript-interview-questions</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of 1000 JavaScript Interview Questions</div>
@@ -284,7 +284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheAlgorithms/JavaScript</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.</div>
@@ -318,7 +318,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        204
+                                        207
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -337,7 +337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leonardomso/33-js-concepts</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📜 33 JavaScript concepts every developer should know.</div>

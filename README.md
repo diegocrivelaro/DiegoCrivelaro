@@ -53,19 +53,3 @@ IDEs:
 - Studying DevOps;
 - Performing logic activities for FAANG.
 
----
-
-<p align="center">
-    <picture>
-        <img src="/github-metrics.svg" alt="Github Metrics" />
-    </picture>
-</p>
-
-<picture>
-    <img src="/general.svg" alt="Metrics General" align="left" width="390">
-</picture>
-
-<picture>
-    <img src="/achievements.svg" alt="Metrics Achievements" align="right" width="390">
-</picture>
-

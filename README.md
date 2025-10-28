@@ -46,10 +46,4 @@ IDEs:
 
 ## Studying
 
-- Deepening my knowledge of React and NextJs;
-- Studying BackEnd;
-- Studying SQL;
-- Studying all Data Structures;
-- Studying DevOps;
-- Performing logic activities for FAANG.
 
